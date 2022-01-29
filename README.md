@@ -17,4 +17,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11137549253&cover_image=true&theme=natemoo-re&bar_color=202124&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11137549253&redirect=true)
 
-![snake gif](https://github.com/umurislamoglu/umurislamoglu/blob/output/github-contribution-grid-snake.gif)
+
