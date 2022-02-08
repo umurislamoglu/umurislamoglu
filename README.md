@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umur İslamoğlu</h1>
 <h3 align="center">A passionate self taught frontend developer who tries to acquire experience and knowledge.</h3>
 
-- 🌱 I’m currently learning **Reactjs, React Native , Tailwind**
+- 🌱 I’m currently learning **Reactjs, React Native , TypeScript**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , ReactJs , SQL**
+- 💬 Ask me about **HTML , CSS , JavaScript , ReactJs , React Native , SQL**
 
 - 📫 How to reach me **umurislamoglu@gmail.com**
 
