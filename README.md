@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umur İslamoğlu</h1>
-<h3 align="center">A passionate self taught Developer who tries to acquire experience and knowledge.</h3>
+<h3 align="center">A passionate self taught developer who tries to acquire experience and knowledge.</h3>
 
 - 🌱 I’m currently learning **Reactjs, React Native , TypeScript**
 
